@@ -1,4 +1,4 @@
-import React, {useState, useEffect} from 'react'
+import React, { useState } from 'react'
 import './NoteList.css';
 import NoteMenuAction from "./NoteMenuAction";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
